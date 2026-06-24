@@ -67,4 +67,4 @@ ba-fintech-churn-analysis/
 ---
 
 *Project by Nguyen Le Bao Dang — Business Analyst candidate*  
-*[LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://notion.so/yourpage)*
+*[LinkedIn](https://www.linkedin.com/in/nguyenlebaodang/)*
