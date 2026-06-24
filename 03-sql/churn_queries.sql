@@ -1,8 +1,6 @@
--- ═══════════════════════════════════════════════════════════
+
 -- Customer Churn Analysis — SQL Queries
 -- Dataset: Bank Customer Churn (Kaggle, 10,000 records)
--- Author: Nguyen Le Bao Dang — Business Analyst
--- ═══════════════════════════════════════════════════════════
 
 -- ── 1. Overview — Overall Churn Summary ───────────────────
 -- Purpose: Establish baseline churn rate before segment analysis
