@@ -26,11 +26,10 @@ A fictional retail bank is experiencing high customer churn. As the Business Ana
 
 ## Key Findings
 
-- **Age 51–60** has the highest churn rate at **31.6%** vs 24.1% average
-- Customers with **3+ products** churn at **40.2%** — signal of over-selling
-- **Inactive members** churn at 29.5% vs 19.0% for active members
-- **Germany segment** churn at 31.1% — requires country-level audit
-
+- **Age 51–60** has the highest churn rate at **56.2%** vs 20.4% average
+- Customers with **3+ products** churn at **85.9%** — critical over-selling signal
+- **Inactive members** churn at 26.9% vs 14.3% for active members
+- **Germany segment** churn at 32.4% — requires country-level audit
 ---
 
 ## BA Recommendations
