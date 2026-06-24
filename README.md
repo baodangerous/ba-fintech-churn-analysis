@@ -2,7 +2,7 @@
 
 **Role:** Business Analyst / Data Analyst  
 **Domain:** Fintech · Digital Banking · Customer Retention  
-**Stack:** Python · SQL · Power BI · Excel  
+**Stack:** Python · SQL · Looker Studio · Excel  
 **Dataset:** [Bank Customer Churn — Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling) (10,000 records)
 
 ---
@@ -19,7 +19,7 @@ A fictional retail bank is experiencing high customer churn. As the Business Ana
 |------|----------|--------|
 | 1 | Exploratory Data Analysis in Python | Charts, churn distribution by segment |
 | 2 | Advanced SQL queries (Window Functions, CTEs) | Cohort segmentation, risk scoring |
-| 3 | Power BI dashboard | KPI cards, bar charts, geo heat map |
+| 3 | Looker Studio dashboard | KPI cards, bar charts, geo heat map |
 | 4 | BA recommendation report | 3 retention strategies for business team |
 
 ---
@@ -30,6 +30,9 @@ A fictional retail bank is experiencing high customer churn. As the Business Ana
 - Customers with **3+ products** churn at **85.9%** — critical over-selling signal
 - **Inactive members** churn at 26.9% vs 14.3% for active members
 - **Germany segment** churn at 32.4% — requires country-level audit
+- **High-balance customers** (>$150k) churn at **34.4%** — competitive poaching risk
+- **New customers** (tenure 0–1 yr) churn at **29.1%** — onboarding gap identified
+- **Female customers** churn at **25.1%** vs 16.5% male — product-fit gap
 ---
 
 ## BA Recommendations
@@ -64,6 +67,19 @@ ba-fintech-churn-analysis/
 `Python EDA` `Power BI` `Stakeholder Communication` `Fintech Domain`
 
 ---
+## Key Visualizations
+
+### Churn by Age Group
+![Churn by Age](05-insights/churn_by_age.png)
+
+### Churn by Balance Tier
+![Churn by Balance](05-insights/churn_by_balance_tier.png)
+
+### Correlation Heatmap
+![Correlation](05-insights/correlation_heatmap.png)
+
+### Age × Activity Heatmap
+![Age x Activity](05-insights/churn_age_x_activity.png)
 
 *Project by Nguyen Le Bao Dang — Business Analyst candidate*  
 *[LinkedIn](https://www.linkedin.com/in/nguyenlebaodang/)*
