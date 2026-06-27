@@ -8,8 +8,8 @@
 ---
 
 ## Problem Statement
-
-A fictional retail bank is experiencing high customer churn (20.4% overall). As the Business Analyst, I was tasked with identifying key churn drivers from historical customer data and translating findings into structured retention recommendations for the product and marketing teams.
+> Self-initiated BA portfolio project. Dataset: Bank Customer Churn from Kaggle.
+> All analysis and recommendations are for learning and portfolio purposes.
 
 ---
 
@@ -58,7 +58,7 @@ A fictional retail bank is experiencing high customer churn (20.4% overall). As 
 ba-fintech-churn-analysis/
 ├── 01-data/              # Raw dataset (10,000 records) + data dictionary
 ├── 02-python/            # EDA scripts (pandas, seaborn, matplotlib) + requirements.txt
-├── 03-sql/               # 6 SQL queries (overview → cohort → window functions)
+├── 03-sql/               # 10 SQL queries (overview → cohort → window functions)
 ├── 04-powerbi/           # Looker Studio dashboard PDF
 ├── 05-insights/          # 9 charts + BA Recommendations report (bilingual)
 └── 06-presentation/      # Executive summary dashboard
@@ -94,4 +94,4 @@ ba-fintech-churn-analysis/
 ---
 
 *Project by Nguyen Le Bao Dang — Business Analyst*  
-*[LinkedIn](https://www.linkedin.com/in/nguyenlebaodang/) · Portfolio: coming soon*
+*[LinkedIn](https://www.linkedin.com/in/nguyenlebaodang/)*
